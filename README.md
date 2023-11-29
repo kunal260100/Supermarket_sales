@@ -9,6 +9,6 @@ This Project has been made with following libraries\
 
 
 
-1. Data Extraction - `Pandas`\
+1. Data Extraction and Data Cleaning - `Pandas`\
 2. Interpolating Machine Learning Models - `Scikit-learn`\
 3. Data Visualization - `Matplotlib`, `Plotly`
