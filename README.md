@@ -7,7 +7,7 @@
 
 This Project has been made with following libraries\
 \
-\
+
 
 [^1]. Data Extraction - `Pandas`\
 [^2]. Interpolating Machine Learning Models - `Scikit-learn`\
