@@ -6,7 +6,7 @@
 **For _local_ jupyter notebook use the specific path**
 
 This Project has been made with following libraries\
-\
+
 
 
 [^1]. Data Extraction - `Pandas`\
