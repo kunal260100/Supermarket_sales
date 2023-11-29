@@ -5,7 +5,7 @@
 **Since the data is imported from _kaggle_ directly so the path may somehow differ.**
 **For _local_ jupyter notebook use the specific path**
 
-This Project has been made with following libraries[^1]
+This Project has been made with following libraries
 
 
 [^2]. Data Extraction - `Pandas`
